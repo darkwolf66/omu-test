@@ -1,11 +1,14 @@
 
 ## API Calls
+```
 /weather/{city}/{date?}/{update?}
+```
 Examples:
+```
 /weather/new_york
 /weather/new_york/2022-03-22
 /weather/new_york/2022-03-22/update
-
+```
 ###Required Env
 ```
 OPENWEATHERMAP_TOKEN="SECRET KEY"
