@@ -9,7 +9,7 @@ Examples:
 /weather/new_york/2022-03-22
 /weather/new_york/2022-03-22/update
 ```
-###Required Env
+### Required Env
 ```
 OPENWEATHERMAP_TOKEN="SECRET KEY"
 OPENWEATHERMAP_URL="https://api.openweathermap.org/data/2.5"
